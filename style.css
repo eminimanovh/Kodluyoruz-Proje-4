@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#6668ee ;
+}
+
+.main-header {
+    color: rgb(141, 9, 9);
+    text-indent: 40px;
+}
+
+.main-paragraph {
+    text-indent: 20px;
+    color: rgb(252, 252, 252);
+}
+
+.second-paragraph {
+    color: rgb(252, 252, 252);
+}
+
+p {
+    text-indent: 20px;
+    color: #fff;
+}
+ul, ol {
+    color: #fff;
+}
+.third-p {
+    background-color:rgb(141, 9, 9);
+    color: #fff;
+}
+
+.footer-text {
+    text-align: center;
+    font-size: 30px;
+}
